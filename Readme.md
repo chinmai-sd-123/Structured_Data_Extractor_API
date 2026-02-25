@@ -34,6 +34,7 @@ And return strictly formatted JSON:
   "target_audience": "Developers and enterprises",
   "key_features": ["Model hosting", "Datasets", "Spaces"],
 }
+
 Architecture
 ------------
 
@@ -266,3 +267,4 @@ API → Task Queue → Worker Pool → LLM → Database
 
 
 Not synchronous blocking requests.
+
